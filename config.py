@@ -3,8 +3,8 @@ Barcha sozlamalar shu yerdan Render.com "Environment" bo'limida
 o'rnatiladigan environment variablelar orqali o'qiladi.
 
 MAJBURIY environment variablelar (Render Dashboard -> Environment):
-    BOT_TOKEN   - @BotFather dan olingan asosiy bot tokeni
-    ADMIN_ID    - Asosiy (ASOSIY ADMIN) foydalanuvchining Telegram ID raqami
+    BOT_TOKEN   - 8844142771:AAHF0QyeZREKuFFIvO1B4CClFOql9EvTTxI
+    ADMIN_ID    - 8837120659
 
 IXTIYORIY environment variablelar:
     DB_PATH     - SQLite baza fayli yo'li (standart: kino_bot.db)
